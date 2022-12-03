@@ -1,5 +1,5 @@
 # ECGNet
-- Age and sex estimation based on standard 12-lead ECG-
+- Age and sex estimation based on standard 12-lead ECG
 
 
 
